@@ -1,12 +1,3 @@
-# [[headers]]
-  # for = "/*" # This defines which paths this specific [[headers]] block will cover.
-  # [headers.values]
-    # X-Frame-Options = "DENY"
-    # X-XSS-Protection = "1; mode=block"
-    # Referrer-Policy = "no-referrer"
-    # X-Content-Type-Options = "nosniff"
-    
-    
 [[headers]]
   for = "*.ico"
   [headers.values]
