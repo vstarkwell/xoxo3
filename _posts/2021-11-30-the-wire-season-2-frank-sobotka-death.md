@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Frank Sobotka death
-description: A scene from The Wire (season 2)
-summary: “Efige” (She Left) by Stelios Kazantzidis, an amazing old school Greek music playing in the background of the scene.
+description: “Efige” (She Left) by Stelios Kazantzidis, an amazing old school Greek music playing in the background of the scene.
+summary: 
 comments: 
 tags: [Video, Music, Kazantzidis, The Wire]
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Distractions
-description: 
-summary: The key to happiness.
+description: The key to happiness.
+summary: 
 comments: 
 tags: [Quotes, Well-said, Woody Allen]
 ---
