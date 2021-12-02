@@ -7,3 +7,4 @@ tmp
 .git
 *.sublime-project
 *.sublime-workspace
+netlify.toml
