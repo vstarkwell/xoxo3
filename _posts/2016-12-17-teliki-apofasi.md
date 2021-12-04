@@ -42,3 +42,7 @@ tags: [00s, TV, Trash, Sia Liaropoulou, Alter]
 **Κατερίνα**: Κολλητή φίλη της Χριστίνας, μικρή και παρθένα.
 
 **Βικτώρια**: Κολλητή φίλη της Χριστίνας.
+
+<div class="youtube-embed-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/atzDwmaHQ3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
