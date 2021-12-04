@@ -1,7 +1,7 @@
 ---
 layout: post
-title: And I heard, as it were, the noise of thunder. One of the four beasts saying, “Come and see.” And I saw, and behold a white horse.
-description: The key to happiness.
+title: When the man comes around
+description: And I heard, as it were, the noise of thunder. One of the four beasts saying, “Come and see.” And I saw, and behold a white horse.
 summary: 
 comments: 
 tags: [Music, Johnny Cash, 90s]
