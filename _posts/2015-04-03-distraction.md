@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Distractions
+title: Distraction
 description: The best you can do to get through life is distraction.
 summary: 
 comments: 
