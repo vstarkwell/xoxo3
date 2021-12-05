@@ -4,7 +4,7 @@ title: Mississippi John Hurt - You Got to Walk That Lonesome Valley
 description: Mississippi John Hurt performing live in Pete Seeger’s “Rainbow Quest” a few months before his death in November 1966.
 summary: 
 comments: 
-tags: [Folk, 60s]
+tags: [Folk, 60s, Guitar]
 ---
 
 You got to walk that lonesome valley / Well, you got to walk it for yourself / Ain’t nobody else can walk it for you / You got to walk that valley for yourself.
