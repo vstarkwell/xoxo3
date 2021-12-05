@@ -1,6 +1,6 @@
 ---
 layout: post
-title: R.L. Burnside - See My Jumper Hanging On the Line (1978)
+title: R.L. Burnside - See My Jumper Hanging On the Line
 description: R.L. Burnside at home in Independence, Mississippi, shot by Alan Lomax, Worth Long, and John Bishop in August, 1978.
 summary: 
 comments: 
