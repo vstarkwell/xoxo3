@@ -4,7 +4,7 @@ title: Reed and Bowie - Waiting for the Man
 description: Lou Reed and David Bowie singing together one of the best songs to come out of the last 100 years and having fun doing it.
 summary: 
 comments: 
-tags: [Lou Reed, David Bowie, Music, Live]
+tags: [lou-reed, david-bowie, music, live]
 ---
 
 “I’m waiting for my man Twenty-six dollars in my hand Up to Lexington, 125 Feeling sick and dirty, more dead than alive I’m waiting for my man”

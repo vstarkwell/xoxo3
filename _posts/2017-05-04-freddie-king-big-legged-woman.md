@@ -4,7 +4,7 @@ title: Freddie King - Big Legged Woman
 description: 
 summary: 
 comments: 
-tags: [Music, Blues, 70s]
+tags: [music, blues, 70s]
 ---
 
 <div class="youtube-embed-container">

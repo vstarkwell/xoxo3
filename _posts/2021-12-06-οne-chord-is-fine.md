@@ -4,7 +4,7 @@ title: One chord is fine
 description: R.L. Burnside at home in Independence, Mississippi, shot by Alan Lomax, Worth Long, and John Bishop in August, 1978.
 summary: 
 comments: 
-tags: [Music, Quote, Less is More, Blues, Lou Reed]
+tags: [music, quote, less-is-more, blues, lou-reed]
 ---
 
 “One chord is fine. Two chords is pushing it. Three chords and you’re into jazz.”

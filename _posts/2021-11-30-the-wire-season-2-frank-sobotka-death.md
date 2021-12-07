@@ -4,7 +4,7 @@ title: Frank Sobotka death
 description: “Efige” (She Left) by Stelios Kazantzidis, an amazing old school Greek music playing in the background of the scene.
 summary: 
 comments: 
-tags: [Video, Music, Kazantzidis, The Wire]
+tags: [video, music, kazantzidis, the-wire]
 ---
 
 “Efige” (She Left) by Stelios Kazantzidis, an amazing old school Greek music playing in the background of the scene.

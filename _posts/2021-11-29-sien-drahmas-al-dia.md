@@ -4,7 +4,7 @@ title: Yamma Trio - Sien Drahmas Al Dia
 description: Jewish Sephardi song from the repertoire of Jewish community that settled down in Greece after the expulsion from Spain in 1492.
 summary: 
 comments: 
-tags: [Music, Video, Ladino]
+tags: [music, video, ladino]
 ---
 
 Jewish Sephardi song from the repertoire of Jewish community that settled down in Greece after the expulsion from Spain in 1492.
