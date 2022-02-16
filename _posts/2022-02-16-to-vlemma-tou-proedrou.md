@@ -1,10 +1,10 @@
 ---
 layout: post
-title: To Βλέμμα του Προέδρου
+title: To Βλέμμα του προέδρου
 description: 
 summary: 
 comments: 
-tags: [leventis]
+tags: [leventis, 90s, tv, kanali-67]
 ---
 
 <img src="https://www.dropbox.com/s/6shxryyeyckccsh/proedros.GIF?raw=1" alt="To Βλέμμα του Προέδρου" />
