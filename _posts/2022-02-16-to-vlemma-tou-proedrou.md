@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To Βλέμμα του προέδρου
+title: To βλέμμα του προέδρου
 description: 
 summary: 
 comments: 
