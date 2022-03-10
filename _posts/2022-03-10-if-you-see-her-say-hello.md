@@ -1,0 +1,15 @@
+---
+layout: post
+title: If you see her, say hello
+description: If you see her, say hello. She might be in Tangier. She left here last early spring is livin’ there, I hear.
+summary: 
+comments: 
+tags: [music, 70s, bob-dylan]
+---
+
+If you see her, say hello. She might be in Tangier. She left here last early spring is livin’ there, I hear. / Say for me that I’m all right though things get kind of slow. She might think that I’ve forgotten her, don’t tell her it isn’t so. / We had a falling-out like lovers often will and to think of how she left that night it still brings me a chill. / And though our separation it pierced me to the heart, she still lives inside of me, we’ve never been apart. / If you get close to her kiss her once for me. Always have respected her for doin’ what she did and gettin’ free. / Oh, whatever makes her happy... I won’t stand in the way, though the bitter taste still lingers on from the night I tried to make her stay. / I see a lot of people as I make the rounds and I hear her name here and there as I go from town to town. / And I’ve never gotten used to it. I’ve just learned to turn it off. Either I’m too sensitive or else I’m gettin’ soft. / Sundown, yellow moon... I replay the past. I know every scene by heart, they all went by so fast. / If she’s passin’ back this way I’m not that hard to find. Tell her she can look me up if she’s got the time.
+
+
+<div class="youtube-embed-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/BWzMVNy0YwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
