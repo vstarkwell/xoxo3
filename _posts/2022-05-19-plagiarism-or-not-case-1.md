@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plagiarism on not, case no1
-description: The Zombies - Any Other Way vs Reamonn - Tonight
+description: The Zombies vs Reamonn
 summary: 
 comments: 
 tags: [music, plagiarism, 00s, 10s, the-zombies, reamonn]
