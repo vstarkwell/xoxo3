@@ -18,6 +18,6 @@ tags: [music, plagiarism, 00s, 10s, the-zombies, reamonn]
 </div>
 
 
-"Art is either plagiarism or revolution"
+"Art is either plagiarism or revolution."
 
 – Paul Gauguin
